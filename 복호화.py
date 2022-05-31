@@ -2,7 +2,7 @@ import os
 maa= input("암호문: ")
 ba=maa.split()
 kegm=ba[0]
-na=int(int(ba[1])/9567) #9567
+na=int(int(ba[1])/95673) #95673
 
 kegm_s=""
 kegm2=""

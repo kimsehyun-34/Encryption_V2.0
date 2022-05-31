@@ -1,7 +1,7 @@
 import os
 kegm = input("문장: ")
-na = int(input("난이도(~600): ")) #아스키 코드 증가값 조절가능
-ma=9567
+na = int(input("+α 난이도(1~4200): ")) #아스키 코드 증가값 조절가능
+ma=95673
 kegm_s=""
 kegm2=""
 c=''
